@@ -1,0 +1,204 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:ESP8266
+LIBS:ESP pogo programmer-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Conn_01x06 J?
+U 1 1 5AC77FF5
+P 1550 3900
+F 0 "J?" H 1550 4200 50  0000 C CNN
+F 1 "Programmer Header" H 1550 3500 50  0000 C CNN
+F 2 "" H 1550 3900 50  0001 C CNN
+F 3 "" H 1550 3900 50  0001 C CNN
+	1    1550 3900
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5AC78376
+P 1850 4100
+F 0 "#PWR?" H 1850 3850 50  0001 C CNN
+F 1 "GND" H 1850 3950 50  0000 C CNN
+F 2 "" H 1850 4100 50  0001 C CNN
+F 3 "" H 1850 4100 50  0001 C CNN
+	1    1850 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1750 4100 1850 4100
+$Comp
+L VCC #PWR?
+U 1 1 5AC7838F
+P 2000 3900
+F 0 "#PWR?" H 2000 3750 50  0001 C CNN
+F 1 "VCC" H 2000 4050 50  0000 C CNN
+F 2 "" H 2000 3900 50  0001 C CNN
+F 3 "" H 2000 3900 50  0001 C CNN
+	1    2000 3900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1750 3900 2000 3900
+Text Label 2000 3800 2    60   ~ 0
+PiUo
+Text Label 2000 3700 2    60   ~ 0
+PoUi
+Wire Wire Line
+	2000 3800 1750 3800
+Wire Wire Line
+	2000 3700 1750 3700
+$Comp
+L VCC #PWR?
+U 1 1 5AC783EB
+P 2550 1800
+F 0 "#PWR?" H 2550 1650 50  0001 C CNN
+F 1 "VCC" H 2550 1950 50  0000 C CNN
+F 2 "" H 2550 1800 50  0001 C CNN
+F 3 "" H 2550 1800 50  0001 C CNN
+	1    2550 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L CP C?
+U 1 1 5AC78401
+P 2550 2050
+F 0 "C?" H 2575 2150 50  0000 L CNN
+F 1 "470uF" H 2575 1950 50  0000 L CNN
+F 2 "" H 2588 1900 50  0001 C CNN
+F 3 "" H 2550 2050 50  0001 C CNN
+	1    2550 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5AC78426
+P 2550 2300
+F 0 "#PWR?" H 2550 2050 50  0001 C CNN
+F 1 "GND" H 2550 2150 50  0000 C CNN
+F 2 "" H 2550 2300 50  0001 C CNN
+F 3 "" H 2550 2300 50  0001 C CNN
+	1    2550 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2550 2300 2550 2200
+Wire Wire Line
+	2550 1900 2550 1800
+$Comp
+L ESP-12F U?
+U 1 1 5AC785DC
+P 5950 4000
+F 0 "U?" H 5950 3900 50  0000 C CNN
+F 1 "ESP-12F" H 5950 4100 50  0000 C CNN
+F 2 "" H 5950 4000 50  0001 C CNN
+F 3 "" H 5950 4000 50  0001 C CNN
+	1    5950 4000
+	1    0    0    -1  
+$EndComp
+Text Label 7150 3700 2    60   ~ 0
+PiUo
+Text Label 7150 3800 2    60   ~ 0
+PoUi
+Wire Wire Line
+	7150 3800 6850 3800
+Wire Wire Line
+	7150 3700 6850 3700
+$Comp
+L GND #PWR?
+U 1 1 5AC78725
+P 7000 4400
+F 0 "#PWR?" H 7000 4150 50  0001 C CNN
+F 1 "GND" H 7000 4250 50  0000 C CNN
+F 2 "" H 7000 4400 50  0001 C CNN
+F 3 "" H 7000 4400 50  0001 C CNN
+	1    7000 4400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6850 4400 7000 4400
+$Comp
+L VCC #PWR?
+U 1 1 5AC7874E
+P 4900 4400
+F 0 "#PWR?" H 4900 4250 50  0001 C CNN
+F 1 "VCC" H 4900 4550 50  0000 C CNN
+F 2 "" H 4900 4400 50  0001 C CNN
+F 3 "" H 4900 4400 50  0001 C CNN
+	1    4900 4400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4900 4400 5050 4400
+Text Label 7150 4100 2    60   ~ 0
+GPIO0
+Wire Wire Line
+	7150 4100 6850 4100
+Wire Wire Line
+	2000 3600 1750 3600
+Text Label 2000 3600 2    60   ~ 0
+DTR
+Wire Wire Line
+	2000 4000 1750 4000
+Text Label 2000 4000 2    60   ~ 0
+CTS
+Text Label 7400 4100 0    60   ~ 0
+GPIO0
+$Comp
+L GND #PWR?
+U 1 1 5AC7A389
+P 7750 4100
+F 0 "#PWR?" H 7750 3850 50  0001 C CNN
+F 1 "GND" H 7750 3950 50  0000 C CNN
+F 2 "" H 7750 4100 50  0001 C CNN
+F 3 "" H 7750 4100 50  0001 C CNN
+	1    7750 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7750 4100 7400 4100
+$EndSCHEMATC
