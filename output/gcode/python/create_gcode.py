@@ -16,8 +16,10 @@ class operation(gcode_block):
 
 class sequence(gcode_block):
         def __init__(self, file_name):
-                gcode_block.__init__(self, open(file_name, "w+"))     #create new file
-                self.data = ""                                  #create blank data variable
+                gcode_block.__init__(self, open(file_name, "w+"))       #create new file
+                self.data = ""                                          #create blank data variable
+        def write_to_file():
+                (self.file).write(self.data)
 
 #main functions
 def init_operations():
@@ -28,12 +30,15 @@ def init_operations():
 
 def collect_operations():
         output = sequence("PCB.gcode")
+        
+        
 
 #main
 def main():
 	init_operations()
 	#modify_operations()
 	collect_operations()
+        output.write_to_file()
 
 #run
 main()
