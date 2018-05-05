@@ -9,18 +9,18 @@ class gcode_block:
 	def delete_ends(self):
 		self.data = (self.data).replace("G00 X0Y0\nM05", ";G00 X0Y0; delete_ends\r\n;M05; delete_ends")
 	def append(self, gcode_block_to_append, number_of_passes):
-		for i in xrange(number_of_passes):
+		for i in range(number_of_passes):
 			self.data = self.data + gcode_block_to_append.data
 
 class operation(gcode_block):
 	def __init__(self, file_name):
 		gcode_block.__init__(self, open(file_name, "r"))        #open file
-		self.data = (self.file).read()                          #read to data 
+		self.data = (self.file).read()                          #read to data string
 
 class sequence(gcode_block):
 	def __init__(self, file_name):
 		gcode_block.__init__(self, open(file_name, "w+"))       #create new file
-		self.data = ""                                          #create blank data variable
+		self.data = ""                                          #create blank data string
 	def write_to_file(self):
 		(self.file).write(self.data)
 
