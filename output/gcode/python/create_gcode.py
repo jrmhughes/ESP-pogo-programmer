@@ -1,5 +1,5 @@
 
-class operation:
+class gcode_block:
         def __init__(self, file):
                 self.file = file
         def fixes():
@@ -8,10 +8,19 @@ class operation:
                 self.data = (self.data).replace("F", "G00 F")   #replace feedrate commands with ones Marlin understands
         def delete_ends():
                 self.data = (self.data).replace("G00 X0Y0\r\nM05", "")
-          
+
+class operation(gcode_block):
+        def __init__(self, file_name):
+                gcode_block.__init__(open(file_name, "r"))
+                self.data = (self.file).read()
+
+class sequence(gcode_block):
+        def __init__(self, file_name):
+                gcode_block.__init__(open(file_name, "w+"))
+                self.data = ""
+
 def init_operations():
-        FCu = operation(open("F.Cu.gbr_iso_cnc.gcode", "r"))
-        FCu.data = read(FCu.file)
+        FCu = operation("F.Cu.gbr_iso_cnc.gcode")
 
 def modify_operations():
         
