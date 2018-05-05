@@ -1,4 +1,4 @@
-
+#gcode_block class and subclasses
 class gcode_block:
         def __init__(self, file):
                 self.file = file
@@ -11,27 +11,30 @@ class gcode_block:
 
 class operation(gcode_block):
         def __init__(self, file_name):
-                gcode_block.__init__(open(file_name, "r"))      #open file
+                gcode_block.__init__(self, open(file_name, "r"))      #open file
                 self.data = (self.file).read()                  #read to data variable
 
 class sequence(gcode_block):
         def __init__(self, file_name):
-                gcode_block.__init__(open(file_name, "w+"))     #create new file
+                gcode_block.__init__(self, open(file_name, "w+"))     #create new file
                 self.data = ""                                  #create blank data variable
 
+#main functions
 def init_operations():
         FCu = operation("F.Cu.gbr_iso_cnc.gcode")
 
-def modify_operations():
+#def modify_operations():
         
 
 def collect_operations():
         output = sequence("PCB.gcode")
 
+#main
 def main():
-	define_operations()
-	modify_operations()
-	write_operations()
+	init_operations()
+	#modify_operations()
+	collect_operations()
 
+#run
 main()
 
