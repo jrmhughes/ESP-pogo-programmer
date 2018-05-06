@@ -17,12 +17,20 @@ class operation(gcode_block):
 		gcode_block.__init__(self, open(file_name, "r"))        #open file
 		self.data = (self.file).read()                          #read to data string
 
-class sequence(gcode_block):
+class setup(gcode_block):
 	def __init__(self, file_name):
 		gcode_block.__init__(self, open(file_name, "w+"))       #create new file
 		self.data = ""                                          #create blank data string
 	def write_to_file(self):
 		(self.file).write(self.data)
+	def add_ends(self, start, end):
+		self.data = start.data + self.data + end.data
+	def finish(self, start, end):
+		self.fixes()
+		self.delete_ends()
+		self.add_ends(start, end)
+		self.write_to_file()
+		
 
 #main
 def main():
@@ -32,20 +40,27 @@ def main():
 	end = operation("end.gcode")
 	#others
 	FCu = operation("F.Cu.gbr_iso_cnc.gcode")
+	drl_mill = operation("ESP pogo programmer.drl_mill_cnc.gcode")
+	cutout = operation("ESP pogo programmer-F.Cu.gbr_cutout_cnc.gcode")
 	
 	#modify operations
 
 	#collect operations
-	output = sequence("PCB.gcode")
+	paint = setup("PCB_paint.gcode")
+	paint.append(FCu, 1)
+	paint.append(drl_mill, 1)
+	paint.append(cutout, 1)
+	#apply modifications and write to file
+	paint.finish(start, end)
 
-	output.append(FCu, 1)
+	drl_mill_1 = operation("ESP pogo programmer.drl_mill_cnc_1.gcode")
+	cutout_1 = operation("ESP pogo programmer-F.Cu.gbr_cutout_cnc_1.gcode")
 	
-	#modify sequence
-	output.fixes()
-	output.delete_ends()
-	output.data = start.data + output.data + end.data       #attach start and end gcode
+	cutting = setup("PCB_cutting.gcode")
+	cutting.append(drl_mill_1, 1600)
+	cutting.append(cutout_1, 1600)
 
-	output.write_to_file()
+	cutting.finish(start, end)
 
 #run
 main()
