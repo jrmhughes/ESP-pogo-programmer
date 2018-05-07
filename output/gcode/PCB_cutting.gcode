@@ -102,8 +102,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -204,8 +204,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -306,8 +306,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -408,8 +408,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -510,8 +510,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -612,8 +612,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -714,8 +714,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -816,8 +816,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -918,8 +918,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1020,8 +1020,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1122,8 +1122,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1224,8 +1224,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1326,8 +1326,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1428,8 +1428,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1530,8 +1530,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1632,8 +1632,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1734,8 +1734,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1836,8 +1836,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -1938,8 +1938,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2040,8 +2040,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2142,8 +2142,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2244,8 +2244,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2346,8 +2346,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2448,8 +2448,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2550,8 +2550,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2652,8 +2652,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2754,8 +2754,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2856,8 +2856,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -2958,8 +2958,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3060,8 +3060,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3162,8 +3162,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3264,8 +3264,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3366,8 +3366,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3468,8 +3468,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3570,8 +3570,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3672,8 +3672,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3774,8 +3774,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3876,8 +3876,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -3978,8 +3978,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4080,8 +4080,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4182,8 +4182,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4284,8 +4284,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4386,8 +4386,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4488,8 +4488,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4590,8 +4590,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4692,8 +4692,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4794,8 +4794,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4896,8 +4896,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -4998,8 +4998,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -5100,8 +5100,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -5202,8 +5202,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -5304,8 +5304,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -5406,8 +5406,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -5508,8 +5508,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -5610,8 +5610,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -5712,8 +5712,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -5814,8 +5814,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -5916,8 +5916,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6018,8 +6018,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6120,8 +6120,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6222,8 +6222,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6324,8 +6324,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6426,8 +6426,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6528,8 +6528,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6630,8 +6630,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6732,8 +6732,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6834,8 +6834,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -6936,8 +6936,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7038,8 +7038,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7140,8 +7140,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7242,8 +7242,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7344,8 +7344,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7446,8 +7446,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7548,8 +7548,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7650,8 +7650,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7752,8 +7752,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7854,8 +7854,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -7956,8 +7956,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8058,8 +8058,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8160,8 +8160,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8262,8 +8262,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8364,8 +8364,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8466,8 +8466,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8568,8 +8568,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8670,8 +8670,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8772,8 +8772,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8874,8 +8874,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -8976,8 +8976,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9078,8 +9078,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9180,8 +9180,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9282,8 +9282,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9384,8 +9384,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9486,8 +9486,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9588,8 +9588,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9690,8 +9690,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9792,8 +9792,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9894,8 +9894,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -9996,8 +9996,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -10098,8 +10098,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -10200,8 +10200,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -10302,8 +10302,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -10404,8 +10404,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -10506,8 +10506,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -10608,8 +10608,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -10710,8 +10710,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -10812,8 +10812,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -10914,8 +10914,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11016,8 +11016,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11118,8 +11118,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11220,8 +11220,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11322,8 +11322,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11424,8 +11424,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11526,8 +11526,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11628,8 +11628,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11730,8 +11730,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11832,8 +11832,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -11934,8 +11934,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12036,8 +12036,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12138,8 +12138,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12240,8 +12240,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12342,8 +12342,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12444,8 +12444,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12546,8 +12546,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12648,8 +12648,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12750,8 +12750,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12852,8 +12852,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -12954,8 +12954,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13056,8 +13056,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13158,8 +13158,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13260,8 +13260,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13362,8 +13362,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13464,8 +13464,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13566,8 +13566,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13668,8 +13668,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13770,8 +13770,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13872,8 +13872,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -13974,8 +13974,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14076,8 +14076,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14178,8 +14178,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14280,8 +14280,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14382,8 +14382,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14484,8 +14484,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14586,8 +14586,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14688,8 +14688,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14790,8 +14790,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14892,8 +14892,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -14994,8 +14994,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -15096,8 +15096,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -15198,8 +15198,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -15300,8 +15300,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -15402,8 +15402,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -15504,8 +15504,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -15606,8 +15606,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -15708,8 +15708,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -15810,8 +15810,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -15912,8 +15912,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16014,8 +16014,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16116,8 +16116,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16218,8 +16218,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16320,8 +16320,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16422,8 +16422,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16524,8 +16524,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16626,8 +16626,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16728,8 +16728,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16830,8 +16830,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -16932,8 +16932,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17034,8 +17034,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17136,8 +17136,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17238,8 +17238,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17340,8 +17340,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17442,8 +17442,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17544,8 +17544,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17646,8 +17646,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17748,8 +17748,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17850,8 +17850,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -17952,8 +17952,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18054,8 +18054,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18156,8 +18156,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18258,8 +18258,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18360,8 +18360,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18462,8 +18462,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18564,8 +18564,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18666,8 +18666,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18768,8 +18768,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18870,8 +18870,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -18972,8 +18972,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19074,8 +19074,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19176,8 +19176,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19278,8 +19278,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19380,8 +19380,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19482,8 +19482,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19584,8 +19584,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19686,8 +19686,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19788,8 +19788,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19890,8 +19890,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -19992,8 +19992,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -20094,8 +20094,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -20196,8 +20196,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -20298,8 +20298,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -20400,8 +20400,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -20502,8 +20502,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -20604,8 +20604,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -20706,8 +20706,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -20808,8 +20808,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -20910,8 +20910,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21012,8 +21012,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21114,8 +21114,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21216,8 +21216,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21318,8 +21318,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21420,8 +21420,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21522,8 +21522,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21624,8 +21624,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21726,8 +21726,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21828,8 +21828,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -21930,8 +21930,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22032,8 +22032,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22134,8 +22134,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22236,8 +22236,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22338,8 +22338,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22440,8 +22440,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22542,8 +22542,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22644,8 +22644,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22746,8 +22746,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22848,8 +22848,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -22950,8 +22950,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23052,8 +23052,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23154,8 +23154,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23256,8 +23256,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23358,8 +23358,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23460,8 +23460,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23562,8 +23562,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23664,8 +23664,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23766,8 +23766,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23868,8 +23868,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -23970,8 +23970,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24072,8 +24072,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24174,8 +24174,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24276,8 +24276,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24378,8 +24378,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24480,8 +24480,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24582,8 +24582,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24684,8 +24684,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24786,8 +24786,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24888,8 +24888,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -24990,8 +24990,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -25092,8 +25092,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -25194,8 +25194,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -25296,8 +25296,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -25398,8 +25398,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -25500,8 +25500,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -25602,8 +25602,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -25704,8 +25704,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -25806,8 +25806,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -25908,8 +25908,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26010,8 +26010,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26112,8 +26112,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26214,8 +26214,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26316,8 +26316,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26418,8 +26418,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26520,8 +26520,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26622,8 +26622,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26724,8 +26724,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26826,8 +26826,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -26928,8 +26928,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27030,8 +27030,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27132,8 +27132,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27234,8 +27234,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27336,8 +27336,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27438,8 +27438,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27540,8 +27540,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27642,8 +27642,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27744,8 +27744,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27846,8 +27846,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -27948,8 +27948,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28050,8 +28050,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28152,8 +28152,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28254,8 +28254,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28356,8 +28356,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28458,8 +28458,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28560,8 +28560,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28662,8 +28662,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28764,8 +28764,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28866,8 +28866,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -28968,8 +28968,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29070,8 +29070,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29172,8 +29172,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29274,8 +29274,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29376,8 +29376,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29478,8 +29478,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29580,8 +29580,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29682,8 +29682,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29784,8 +29784,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29886,8 +29886,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -29988,8 +29988,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -30090,8 +30090,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -30192,8 +30192,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -30294,8 +30294,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -30396,8 +30396,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -30498,8 +30498,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -30600,8 +30600,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -30702,8 +30702,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -30804,8 +30804,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -30906,8 +30906,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31008,8 +31008,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31110,8 +31110,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31212,8 +31212,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31314,8 +31314,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31416,8 +31416,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31518,8 +31518,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31620,8 +31620,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31722,8 +31722,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31824,8 +31824,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -31926,8 +31926,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32028,8 +32028,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32130,8 +32130,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32232,8 +32232,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32334,8 +32334,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32436,8 +32436,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32538,8 +32538,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32640,8 +32640,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32742,8 +32742,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32844,8 +32844,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -32946,8 +32946,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33048,8 +33048,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33150,8 +33150,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33252,8 +33252,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33354,8 +33354,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33456,8 +33456,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33558,8 +33558,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33660,8 +33660,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33762,8 +33762,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33864,8 +33864,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -33966,8 +33966,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34068,8 +34068,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34170,8 +34170,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34272,8 +34272,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34374,8 +34374,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34476,8 +34476,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34578,8 +34578,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34680,8 +34680,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34782,8 +34782,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34884,8 +34884,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -34986,8 +34986,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -35088,8 +35088,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -35190,8 +35190,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -35292,8 +35292,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -35394,8 +35394,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -35496,8 +35496,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -35598,8 +35598,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -35700,8 +35700,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -35802,8 +35802,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -35904,8 +35904,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36006,8 +36006,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36108,8 +36108,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36210,8 +36210,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36312,8 +36312,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36414,8 +36414,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36516,8 +36516,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36618,8 +36618,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36720,8 +36720,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36822,8 +36822,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -36924,8 +36924,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37026,8 +37026,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37128,8 +37128,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37230,8 +37230,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37332,8 +37332,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37434,8 +37434,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37536,8 +37536,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37638,8 +37638,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37740,8 +37740,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37842,8 +37842,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -37944,8 +37944,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38046,8 +38046,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38148,8 +38148,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38250,8 +38250,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38352,8 +38352,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38454,8 +38454,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38556,8 +38556,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38658,8 +38658,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38760,8 +38760,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38862,8 +38862,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -38964,8 +38964,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39066,8 +39066,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39168,8 +39168,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39270,8 +39270,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39372,8 +39372,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39474,8 +39474,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39576,8 +39576,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39678,8 +39678,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39780,8 +39780,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39882,8 +39882,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -39984,8 +39984,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -40086,8 +40086,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -40188,8 +40188,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -40290,8 +40290,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -40392,8 +40392,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -40494,8 +40494,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -40596,8 +40596,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -40698,8 +40698,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -40800,8 +40800,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -40902,8 +40902,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41004,8 +41004,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41106,8 +41106,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41208,8 +41208,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41310,8 +41310,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41412,8 +41412,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41514,8 +41514,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41616,8 +41616,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41718,8 +41718,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41820,8 +41820,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -41922,8 +41922,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42024,8 +42024,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42126,8 +42126,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42228,8 +42228,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42330,8 +42330,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42432,8 +42432,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42534,8 +42534,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42636,8 +42636,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42738,8 +42738,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42840,8 +42840,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -42942,8 +42942,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43044,8 +43044,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43146,8 +43146,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43248,8 +43248,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43350,8 +43350,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43452,8 +43452,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43554,8 +43554,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43656,8 +43656,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43758,8 +43758,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43860,8 +43860,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -43962,8 +43962,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44064,8 +44064,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44166,8 +44166,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44268,8 +44268,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44370,8 +44370,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44472,8 +44472,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44574,8 +44574,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44676,8 +44676,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44778,8 +44778,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44880,8 +44880,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -44982,8 +44982,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -45084,8 +45084,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -45186,8 +45186,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -45288,8 +45288,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -45390,8 +45390,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -45492,8 +45492,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -45594,8 +45594,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -45696,8 +45696,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -45798,8 +45798,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -45900,8 +45900,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46002,8 +46002,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46104,8 +46104,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46206,8 +46206,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46308,8 +46308,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46410,8 +46410,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46512,8 +46512,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46614,8 +46614,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46716,8 +46716,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46818,8 +46818,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -46920,8 +46920,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47022,8 +47022,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47124,8 +47124,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47226,8 +47226,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47328,8 +47328,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47430,8 +47430,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47532,8 +47532,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47634,8 +47634,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47736,8 +47736,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47838,8 +47838,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -47940,8 +47940,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48042,8 +48042,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48144,8 +48144,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48246,8 +48246,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48348,8 +48348,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48450,8 +48450,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48552,8 +48552,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48654,8 +48654,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48756,8 +48756,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48858,8 +48858,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -48960,8 +48960,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49062,8 +49062,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49164,8 +49164,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49266,8 +49266,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49368,8 +49368,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49470,8 +49470,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49572,8 +49572,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49674,8 +49674,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49776,8 +49776,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49878,8 +49878,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -49980,8 +49980,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -50082,8 +50082,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -50184,8 +50184,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -50286,8 +50286,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -50388,8 +50388,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -50490,8 +50490,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -50592,8 +50592,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -50694,8 +50694,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -50796,8 +50796,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -50898,8 +50898,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 
@@ -51000,8 +51000,8 @@ G01 F60 ;fixes
 G04 P10000 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 
 ;start of end gcode

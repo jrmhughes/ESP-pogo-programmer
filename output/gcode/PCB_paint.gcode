@@ -1620,8 +1620,8 @@ M03 S1 ;fixes
 G00 F1800 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-;G00 X0Y0; delete_ends
-;M05; delete_ends
+;G00 X0Y0 ;delete_ends
+;M05 ;delete_ends
 
 
 G21
@@ -1721,8 +1721,8 @@ G01 F15 ;fixes
 G04 P300 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
-G00 X0.0000Y0.0000
-M05
+;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
 
 ;start of end gcode
 M3 S1
