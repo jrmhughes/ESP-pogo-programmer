@@ -57,7 +57,7 @@ def main():
         cutout_1 = operation("ESP pogo programmer-F.Cu.gbr_cutout_cnc_1.gcode")
         
         cutting = setup("PCB_cutting.gcode")
-        cutting.append(drl_mill_1, 1)
+        #cutting.append(drl_mill_1, 1)
         cutting.append(cutout_1, 1)
 
         cutting.fixes()
