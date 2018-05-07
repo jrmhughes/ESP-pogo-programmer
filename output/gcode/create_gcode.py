@@ -1,5 +1,3 @@
-#+ check if there is more efficient alternative to 'self.data = (self.data).replace'
-#+?leave original gcode as a comment
 class gcode_block:
         def __init__(self, data):
                 self.data = data
@@ -10,7 +8,7 @@ G01 F{} ;fixes".format(feedrate))
 G00 F{} ;fixes".format(travel_feedrate))
                 self.data = (self.data).replace("G01 Z0", "G04 P{} ;fixes".format(drill_time))
         def delete_ends(self):
-                self.data = (self.data).replace("G00 X0Y0\nM05", ";G00 X0Y0; delete_ends\r\n;M05; delete_ends")
+                self.data = (self.data).replace("G00 X0Y0\nM05", ";G00 X0Y0; delete_ends\n;M05; delete_ends")
         def read_from_disk(self, read_file_name, n_iterations = 1):
                 with open(read_file_name, "r") as read_file:
                         read_data = read_file.read()  
