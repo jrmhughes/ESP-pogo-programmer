@@ -9,69 +9,50000 @@ G4 P1000
 G21
 G90
 G94
-G00 F120.00
+F120.00
 M03 S1 ;fixes
+G00 F1800 ;fixes
 M03 S1
 G00 X-9.6200Y-11.5000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-8.0000Y-5.0000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-8.0000Y-7.5000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-2.0000Y-11.5000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-14.0000Y-2.5000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-14.0000Y-5.0400
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-14.0000Y-7.5800
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-14.0000Y-10.1200
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-14.0000Y-12.6600
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-14.0000Y-15.2000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-17.0000Y-2.5000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-3.0000Y-2.5000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-3.0000Y-8.5000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-3.0000Y-14.5000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X-3.0000Y-16.5000
 M03 S255 ;fixes
+G01 F60 ;fixes
 G01 Z0
 M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X0.0000Y0.0000
+M05
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X-9.6200Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-5.0000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-8.0000Y-7.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-2.0000Y-11.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-5.0400
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-7.5800
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-10.1200
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-12.6600
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-14.0000Y-15.2000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-17.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-2.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-8.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-14.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-3.0000Y-16.5000
+M03 S255 ;fixes
+G01 F60 ;fixes
+G01 Z0
+M03 S1 ;fixes
+G00 F1800 ;fixes
 G00 X0.0000Y0.0000
 M05
 
