@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "C:\\Users\\jrmhu\\Google Drive\\DDocuments\\KiCad\\ESP-pogo-programmer\\ESP pogo programmer.sch")
-    (date "13/04/2018 20:27:57")
+    (source "C:/Users/jrmhu/Google Drive/DDocuments/KiCad/ESP-pogo-programmer/ESP pogo programmer.sch")
+    (date "07/05/2018 08:57:07")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -173,9 +173,9 @@
       (node (ref U1) (pin 3)))
     (net (code 22) (name "Net-(U1-Pad2)")
       (node (ref U1) (pin 2)))
-    (net (code 23) (name /PoUi)
-      (node (ref U1) (pin 15))
-      (node (ref J1) (pin 5)))
-    (net (code 24) (name /PiUo)
+    (net (code 23) (name /PiUo)
       (node (ref U1) (pin 16))
+      (node (ref J1) (pin 5)))
+    (net (code 24) (name /PoUi)
+      (node (ref U1) (pin 15))
       (node (ref J1) (pin 4)))))

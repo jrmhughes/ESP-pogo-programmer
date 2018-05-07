@@ -81,9 +81,9 @@ F 3 "" H 2450 3900 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Text Label 2000 3800 2    60   ~ 0
-PiUo
-Text Label 2000 3700 2    60   ~ 0
 PoUi
+Text Label 2000 3700 2    60   ~ 0
+PiUo
 Wire Wire Line
 	2000 3800 1750 3800
 Wire Wire Line
