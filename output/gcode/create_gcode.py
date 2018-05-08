@@ -31,6 +31,7 @@ def create_paint(output_name):
         paint.read_from_disk("start.gcode")
         paint.read_from_disk("F.Cu.gbr_iso_cnc.gcode")
         paint.read_from_disk("drl_cnc.gcode")
+        paint.read_from_disk("F.Cu.gbr_cutout_cnc.gcode")
         paint.read_from_disk("end.gcode")
 
         paint.fixes("15", "1800", "300")
@@ -43,9 +44,9 @@ def create_cutting(output_name):
         cutting_body = gcode_block("")
         
         cutting_body.read_from_disk("drl_cnc.gcode")
-        #cutting_body.read_from_disk("edge cuts.gcode")
+        cutting_body.read_from_disk("F.Cu.gbr_cutout_cnc.gcode")
         
-        cutting_body.fixes("60", "1800", "10000")
+        cutting_body.fixes("10", "1800", "3000")
         cutting_body.delete_ends()
         
         #cutting

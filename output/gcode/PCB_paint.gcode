@@ -1,5 +1,5 @@
 G28
-G0 F5000 X72.9 Y48.9 Z90
+G0 F5000 X70 Y-2 Z90
 G92 X0 Y0 Z0
 M3 S1
 G4 P1000
@@ -1722,6 +1722,35 @@ G04 P300 ;fixes
 M03 S1 ;fixes
 G00 F1800 ;fixes
 ;G00 X0.0000Y0.0000 ;delete_ends
+;M05 ;delete_ends
+
+
+G21
+G90
+G94
+F120.00
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1
+G00 X0.0000Y-8.8900
+M03 S255 ;fixes
+G01 F15 ;fixes
+G01 X0.0000Y0.0000
+G01 X-20.8200Y0.0000
+G01 X-20.8200Y-8.8900
+M03 S1 ;fixes
+G00 F1800 ;fixes
+G00 X-20.8200Y-9.3900
+M03 S255 ;fixes
+G01 F15 ;fixes
+G01 X-20.8200Y-18.2800
+G01 X0.0000Y-18.2800
+G01 X0.0000Y-9.3900
+M03 S1 ;fixes
+G00 F1800 ;fixes
+M03 S1 ;fixes
+G00 F1800 ;fixes
+;G00 X0Y0 ;delete_ends
 ;M05 ;delete_ends
 
 ;start of end gcode
